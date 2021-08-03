@@ -39,8 +39,10 @@ ul {
     flex-wrap: wrap;
     justify-content: center;
     height: 100vh;
-    font-size: 15px;
+    font-size: 35px;
     flex-direction: row;
+    font-style: italic;
+    color: whitesmoke;
 }
 
 .drum {
@@ -51,7 +53,7 @@ ul {
     height: 400px;
     width: 400px;
     background: radial-gradient(#E3BAC6,#FDE8E9);
-    
+
 }
 
 .pressed {
